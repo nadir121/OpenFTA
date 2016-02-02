@@ -1,3 +1,8 @@
+Open Fault Tree Analysis tool
+-----------------------------
+
+https://en.wikipedia.org/wiki/Fault_tree_analysis
+
 OpenFTA 1.0
 -----------
 This directory contains the following sub directories:
